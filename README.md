@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Xavier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-hernandez&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Xavier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-hernandez&show_icons=true&theme=prussian&exclude_repo=react-wordle)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavier-hernandez&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
