@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 [![Xavier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-hernandez&show_icons=true&theme=prussian&exclude_repo=react-wordle&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=xavier-hernandez)
