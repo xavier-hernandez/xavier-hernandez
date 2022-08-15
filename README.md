@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavier-hernandez&show_icons=true&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Xavier's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-hernandez&show_icons=true&theme=prussian&exclude_repo=react-wordle&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-
+ <img src="https://github-readme-stats.vercel.app/api?username=xavier-hernandez&show_icons=true&theme=prussian&count_private=true" width="360" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-hernandez&show_icons=true&theme=prussian&exclude_repo=react-wordle&layout=compact&count_private=true" width="300" />
