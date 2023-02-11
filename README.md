@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ---
 
 Help me spend more time on open source applications by supporting me.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L7GXPUS)
