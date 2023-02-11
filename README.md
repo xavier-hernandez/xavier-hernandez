@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
  <img src="https://github-readme-stats.vercel.app/api?username=xavier-hernandez&show_icons=true&theme=prussian&count_private=true" width="360" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavier-hernandez&show_icons=true&theme=prussian&exclude_repo=react-wordle&layout=compact&count_private=true" width="300" />
+ 
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L7GXPUS)
